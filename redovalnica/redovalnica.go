@@ -1,4 +1,4 @@
-package naloga5
+package redovalnica
 
 import "fmt"
 

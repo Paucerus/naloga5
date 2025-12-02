@@ -5,7 +5,7 @@ import (
     "os"
 
     "github.com/urfave/cli/v3"
-    "github.com/Paucerus/naloga5/naloga5"
+    "github.com/Paucerus/naloga5/redovalnica"
 )
 
 func main() {

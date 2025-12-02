@@ -6,4 +6,4 @@
 //   - IzpisiKoncniUspeh: izračuna povprečje in izpiše končni uspeh
 //
 // Funkcija povprecje je interna in ni exportana.
-package naloga5
+package redovalnica
